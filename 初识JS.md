@@ -1,6 +1,3 @@
- (备用链接)
-JavaScript 诞生记
-JavaScript 的10个设计缺陷
 
 ## JavaScript 的历史
 * 1995年，【网景】招募了布兰登·艾克，目标是把[Scheme](https://zh.wikipedia.org/wiki/Scheme)语言嵌入到Netscape Navigator浏览器当中，艾克在1995年5月仅花了十天时间就把原型设计出来了。
